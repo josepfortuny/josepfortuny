@@ -1,4 +1,4 @@
-# ![https://github.com/josepfortuny](https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.png =100x20) Hello, my name is Josep Fortuny 👋
+# ![https://github.com/josepfortuny](https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.png){ width=50% } Hello, my name is Josep Fortuny 👋
 ### Telecommunication & Electronics Engineer 
 
 Ihave recently completed a master’s degree in Telecommunication Engineering at La Salle University with almost two years of experience in SysAdmin & Cloud Consultant. I am a methodical engineer who thrives off continuous learning new skills and technics to improve as a professional and more importantly as a person.
