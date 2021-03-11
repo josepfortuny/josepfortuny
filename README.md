@@ -1,3 +1,5 @@
+# <img src="https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.png" width="200" height="36">
+
 # ![https://github.com/josepfortuny](https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.png){:height="36px" width="36px"} Hello, my name is Josep Fortuny 👋
 ### Telecommunication & Electronics Engineer 
 
