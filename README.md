@@ -13,12 +13,13 @@ I am also capable of designing medium high electronic circuits and learning new 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 <br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![IBM](https://img.shields.io/badge/IBM_Cloud-232F3E?style=for-the-badge&logo=IBM&logoColor=white&labelColor=054ADA)]()
 <br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josep_Fortuny_Casablancas-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josepfortunycasablancas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josep_Fortuny_Casablancas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josepfortunycasablancas)
 
 ### Contact me
