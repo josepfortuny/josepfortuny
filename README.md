@@ -1,5 +1,5 @@
 
-# <div vertical-align:center> <img src="https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.JPG" width="50" height="50"> <span>Hello, my name is Josep Fortuny 👋 </span> </div> 
+# ![Logo](https://raw.githubusercontent.com/josepfortuny/josepfortuny/main/perfil_logo.JPG" width="50" height="50") <span>Hello, my name is Josep Fortuny 👋 </span> </div> 
 ### Telecommunication & Electronics Engineer 
 
 Ihave recently completed a master’s degree in Telecommunication Engineering at La Salle University with almost two years of experience in SysAdmin & Cloud Consultant. I am a methodical engineer who thrives off continuous learning new skills and technics to improve as a professional and more importantly as a person.
