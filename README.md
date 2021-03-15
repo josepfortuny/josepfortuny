@@ -29,7 +29,6 @@ I am also capable of designing medium high electronic circuits and learning new 
 
 ### Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josep_Fortuny_Casablancas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josepfortunycasablancas)
-[![InfoJobs](https://img.shields.io/badge/LinkedIn-Josep_Fortuny_Casablancas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josepfortunycasablancas)
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/jfortunycasablancas@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jortunycasablancas@gmail.com)
