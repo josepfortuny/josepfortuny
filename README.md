@@ -2,9 +2,17 @@
 # Hello, my name is Josep Fortuny 👋 
 ### Telecommunication & Electronics Engineer 
 
-I have recently completed a master’s degree in Telecommunication Engineering at La Salle University with almost two years of experience in SysAdmin & Cloud Consultant. I am a methodical engineer who thrives off continuous learning new skills and technics to improve as a professional and more importantly as a person.
-I am able to work exceptionally well under pression as both an individual or as part of a team. I believe that the most ingenious results can be achieved by many people.
-I am also capable of designing medium high electronic circuits and learning new programming languages in a short period of time.
+Welcome to my github! 
+
+I'm Josep, a telecommunications engineer based in Barcelona with global experience.
+
+I have over three years of experience as SysAdmin & Cloud Consultant and over one year as a Solutions architect.
+
+I am a methodical engineer who thrives off continuous learning new skills and technics in a short period of time to improve as a professional and more importantly as a person.
+
+I am able to work exceptionally well under pressure as both an individual or as part of a team. I believe that the most ingenious results can be achieved by many people.
+
+I look forward to connecting with you soon!
 
 ### Skills
 
